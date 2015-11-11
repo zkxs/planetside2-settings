@@ -1,0 +1,180 @@
+#store_billboard_id^name_id^image^image_tint^display_order^shortcut_id^shortcut_type^shortcut_value^store_id^schedule_id^oob_data^
+1^1312^10023^^1^8^3^25^1^5^^
+1^1312^10028^^1^3^3^27^1^5^^
+1^1312^10033^^1^3^3^27^1^420^^
+1^1312^10112^0^1^17^1025^0^1^693^^
+1^1312^10165^^1^5^3^2^1^422^^
+1^1312^10170^^1^8^3^25^1^422^^
+1^1312^10175^^1^3^3^27^1^422^^
+1^1312^10307^^1^3^3^27^1^5^^
+1^1312^10525^^1^3^3^27^1^423^^
+1^1312^10526^^1^16^3^5^1^422^^
+1^1312^10527^^1^16^3^5^1^422^^
+1^1312^10528^^1^5^3^2^1^422^^
+1^1312^10710^^1^17^1025^0^1^424^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^10715^^1^17^1025^0^1^425^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^10720^^1^17^1025^0^1^424^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^10797^^1^17^1025^0^1^424^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^10798^^1^17^1025^0^1^425^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^11050^0^1^17^1025^0^1^448^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^11055^0^1^17^1025^0^1^449^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^11060^^1^5^3^2^1^467^^
+1^1312^11061^^1^5^3^2^1^473^^
+1^1312^11062^^1^5^3^2^1^468^^
+1^1312^11063^^1^5^3^2^1^471^^
+1^1312^11064^^1^5^3^2^1^469^^
+1^1312^11065^^1^5^3^2^1^470^^
+1^1312^11066^0^1^5^3^2^1^472^^
+1^1312^11067^^1^5^3^2^1^465^^
+1^6999^11406^0^1^17^1025^0^1^438^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^6999^11407^0^1^17^1025^0^1^439^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^11916^0^1^17^1025^0^1^450^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^11916^0^1^17^1025^0^1^666^<StoreBillboardOobData TitleStringId="5997679" DescStringId="5997680"/>^
+1^1312^11975^0^1^17^1025^0^1^456^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^11976^0^1^17^1025^0^1^455^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^11977^0^1^17^1025^0^1^452^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^11978^0^1^17^1025^0^1^453^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^11979^0^1^17^1025^0^1^454^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^11980^0^1^17^1025^0^1^451^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^12463^0^1^7^3^2^1^464^^
+1^1312^12537^0^1^17^1025^0^1^475^^
+1^1312^12578^0^1^17^1025^0^1^476^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^12911^0^1^17^1025^0^1^478^^
+1^1312^12935^0^1^17^1025^0^1^5^^
+1^1312^12936^0^1^19^3^6^1^683^^
+1^1312^12937^0^1^17^1025^0^1^684^^
+1^1312^12938^0^1^17^1025^0^1^685^^
+1^1312^12939^0^1^17^1025^0^1^686^^
+1^1312^12940^0^1^14^3^23^1^687^^
+1^1312^12941^0^1^17^1025^0^1^688^^
+1^1312^12942^0^1^11^3^3^1^689^^
+1^1312^12943^0^1^5^3^2^1^690^^
+1^1312^12944^0^1^18^3^29^1^691^^
+1^1312^12945^0^1^17^1025^0^1^692^^
+1^1312^12946^0^1^17^1025^0^1^490^^
+1^1312^12947^0^1^17^1025^0^1^491^^
+1^1312^12948^0^1^17^1025^0^1^492^^
+1^1312^12949^0^1^14^3^23^1^493^^
+1^1312^12956^0^2^17^1025^0^1^5^<StoreBillboardOobData TitleStringId="55609" DescStringId="55611" ViewRequirementId="1035"/>^
+1^1312^12957^0^2^17^1025^0^1^5^<StoreBillboardOobData TitleStringId="55610" DescStringId="55611" ViewRequirementId="1035"/>^
+1^1312^12958^0^2^17^1025^0^1^5^<StoreBillboardOobData TitleStringId="55607" DescStringId="55611" ViewRequirementId="1035"/>^
+1^1312^12959^0^2^17^1025^0^1^5^<StoreBillboardOobData TitleStringId="55608" DescStringId="55611" ViewRequirementId="1035"/>^
+1^1312^12960^0^2^17^1025^0^1^5^<StoreBillboardOobData TitleStringId="55606" DescStringId="55611" ViewRequirementId="1035"/>^
+1^1312^12961^0^2^17^1025^0^1^5^<StoreBillboardOobData TitleStringId="55612" DescStringId="55611" ViewRequirementId="1035"/>^
+1^1312^13327^0^1^17^1025^0^1^500^^
+1^1312^13359^0^1^17^1025^0^1^501^^
+1^1312^13558^0^1^17^1025^0^1^111112^<StoreBillboardOobData TitleStringId="45269" DescStringId="45270" />^
+1^1312^13704^0^1^17^1025^0^1^505^<StoreBillboardOobData TitleStringId="100004" DescStringId="100005" />^
+1^1312^13705^0^1^17^1025^0^1^504^<StoreBillboardOobData TitleStringId="7799" DescStringId="7800" />^
+1^1312^13774^0^7^17^1025^0^1^559^<StoreBillboardOobData TitleStringId="13298" DescStringId="13299" />^
+1^1312^13775^0^1^18^3^29^1^506^<StoreBillboardOobData TitleStringId="45175" DescStringId="45176" />^
+1^1312^13775^0^2^17^1025^0^1^539^<StoreBillboardOobData TitleStringId="45105" DescStringId="45106"/>^
+1^1312^13775^0^1^18^3^29^1^558^<StoreBillboardOobData TitleStringId="55474" DescStringId="8399" />^
+1^1312^13775^0^1^17^1025^0^1^666^<StoreBillboardOobData TitleStringId="55474" DescStringId="8399"/>^
+1^1312^13776^^1^20^1^9931^1^669^<StoreBillboardOobData TitleStringId="12405" DescStringId="12406" />^
+1^1312^14090^0^1^14^3^23^1^509^<StoreBillboardOobData TitleStringId="8398" DescStringId="8399"/>^
+1^1312^14090^0^1^11^3^3^1^510^<StoreBillboardOobData TitleStringId="8398" DescStringId="8399"/>^
+1^1312^14090^0^1^5^3^2^1^511^<StoreBillboardOobData TitleStringId="8398" DescStringId="8399"/>^
+1^1312^14090^0^1^18^3^29^1^512^<StoreBillboardOobData TitleStringId="8398" DescStringId="8399"/>^
+1^1312^14091^0^1^16^3^5^1^7^<StoreBillboardOobData TitleStringId="9166" DescStringId="9167" />^
+1^1312^14091^0^1^8^3^25^1^510^<StoreBillboardOobData TitleStringId="8398" DescStringId="8399"/>^
+1^1312^14091^0^1^3^3^27^1^511^<StoreBillboardOobData TitleStringId="8398" DescStringId="8399"/>^
+1^1312^14131^0^1^9^4^0^1^0^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^14404^0^2^17^1025^0^1^5^<StoreBillboardOobData TitleStringId="45244" DescStringId="45245"/>^
+1^1312^14405^0^2^17^1025^0^1^529^<StoreBillboardOobData TitleStringId="45246" DescStringId="45247"/>^
+1^1312^14642^0^2^17^1025^0^1^532^<StoreBillboardOobData TitleStringId="100004" DescStringId="45087"/>^
+1^1312^14688^0^2^17^1025^0^1^534^<StoreBillboardOobData TitleStringId="45123" DescStringId="45124"/>^
+1^1312^14689^0^3^19^3^6^1^5^<StoreBillboardOobData TitleStringId="8792" DescStringId="8793"/>^
+1^1312^14693^0^1^17^1025^0^1^532^<StoreBillboardOobData TitleStringId="100004" DescStringId="8795"/>^
+1^1312^14943^0^1^17^1025^0^1^540^<StoreBillboardOobData TitleStringId="50298" DescStringId="50299"/>^
+1^5597025^5710^0^2^7^3^2^1^5^<StoreBillboardOobData TitleStringId="5597025" DescStringId="5597026" />^
+1^1312^5711^0^3^8^3^25^1^5^^
+1^1312^5712^0^4^9^4^0^1^0^<StoreBillboardOobData ViewRequirementId="1034"/>^
+1^1312^77945^0^1^17^1025^0^1^541^<StoreBillboardOobData TitleStringId="90015" DescStringId="90016" ViewRequirementId="1035"/>^
+1^1312^78006^0^1^5^3^2^1^552^^
+1^1312^7933^0^6^12^3^4^1^97^^
+1^1312^7934^0^6^12^3^4^1^98^^
+1^1312^7935^0^6^12^3^4^1^99^^
+1^1312^7936^0^7^8^3^25^1^97^^
+1^1312^7937^0^7^8^3^25^1^98^^
+1^1312^7938^0^7^8^3^25^1^99^^
+1^1312^7939^0^7^8^3^25^1^100^^
+1^1312^7940^0^8^8^3^25^1^101^^
+1^1312^7941^0^8^8^3^25^1^102^^
+1^1312^7942^0^8^8^3^25^1^103^^
+1^1312^7943^0^5^5^3^2^1^5^^
+1^1312^79677^0^1^17^1025^0^1^562^<StoreBillboardOobData TitleStringId="9175" DescStringId="9176" />^
+1^1312^80114^0^1^17^1025^0^1^663^<StoreBillboardOobData TitleStringId="9177" DescStringId="9178"/>^
+1^1312^80372^0^1^7^3^2^1^664^<StoreBillboardOobData TitleStringId="9180" DescStringId="9181"/>^
+1^1312^80873^0^1^17^1025^0^1^667^<StoreBillboardOobData TitleStringId="5997727" DescStringId="5997728"/>^
+1^1312^80874^0^1^17^1025^0^1^668^<StoreBillboardOobData TitleStringId="12374" DescStringId="12375"/>^
+1^1312^8092^0^2^17^1025^0^1^508^<StoreBillboardOobData TitleStringId="" DescStringId="" />^
+1^1312^8100^0^5^5^3^2^1^134^^
+1^1312^8118^0^2^5^3^2^1^136^^
+1^1312^8129^0^2^5^3^2^1^137^^
+1^1312^8147^0^2^5^3^2^1^5^^
+1^1312^8153^0^2^11^3^3^1^261^^
+1^1312^81595^0^1^20^1^9931^1^669^<StoreBillboardOobData TitleStringId="5998102" DescStringId="5998103"/>^
+1^1312^82024^0^1^17^1025^0^1^670^<StoreBillboardOobData TitleStringId="10295" DescStringId="10296"/>^
+1^1312^82209^0^1^17^1025^0^1^694^<StoreBillboardOobData TitleStringId="5998394" DescStringId="5998396"/>^
+1^1312^82314^0^1^17^1025^0^1^696^<StoreBillboardOobData TitleStringId="10297" DescStringId="10298"/>^
+1^1312^8243^0^2^14^3^23^1^278^^
+1^1312^8244^0^2^8^3^25^1^279^^
+1^1312^8250^0^2^3^3^27^1^280^^
+1^1312^8261^0^2^3^3^27^1^280^^
+1^1312^82687^0^1^17^1025^0^1^697^<StoreBillboardOobData TitleStringId="55474" DescStringId="8399"/>^
+1^1312^83413^0^1^21^1^15758^1^111115^15758^
+1^5999035^83476^^2^16^3^5^1^111129^<StoreBillboardOobData TitleStringId="5999047" DescStringId="5999049" />^
+1^5999039^83477^^2^16^3^5^1^111130^<StoreBillboardOobData TitleStringId="5999047" DescStringId="5999050" />^
+1^5999072^83487^^1^16^3^5^1^111132^<StoreBillboardOobData TitleStringId="45269" DescStringId="5999106" />^
+1^1312^8382^0^2^3^3^27^1^281^^
+1^1312^8383^0^2^3^3^27^1^282^^
+1^5999418^84036^^1^14^3^23^1^0^<StoreBillboardOobData TitleStringId="5999417" DescStringId="5999416" />^
+1^5999412^84037^^2^16^3^5^1^0^<StoreBillboardOobData TitleStringId="5999413" DescStringId="5999414" />^
+1^5999411^84038^^3^9^4^0^1^0^<StoreBillboardOobData TitleStringId="8446" DescStringId="8438" />^
+1^1312^8420^0^2^3^3^27^1^283^<StoreBillboardOobData ViewRequirementId="1035"/>^
+1^1312^8421^0^3^8^3^25^1^284^^
+1^5999549^84270^^0^17^1025^0^1^111135^<StoreBillboardOobData TitleStringId="5999550" DescStringId="5999551" />^
+1^5999611^84299^^0^16^3^5^1^111137^<StoreBillboardOobData TitleStringId="5999601" DescStringId="5999612" />^
+1^5999960^84635^^0^16^3^5^1^111142^<StoreBillboardOobData TitleStringId="5999601" DescStringId="5999961" />^
+1^1312^8488^0^2^3^3^27^1^5^^
+1^1312^8494^0^2^5^3^2^1^285^^
+1^1312^8503^0^2^15^1^4145^1^286^^
+1^1312^8516^0^2^5^3^2^1^283^^
+1^1312^8517^0^2^8^3^25^1^287^^
+1^1312^8673^0^2^3^3^27^1^288^^
+1^1312^8712^0^2^5^3^2^1^289^^
+1^1312^8713^0^2^5^3^2^1^289^^
+1^1312^8862^0^2^8^3^25^1^290^^
+1^1312^8883^0^2^3^3^27^1^291^^
+1^1312^8896^0^2^7^3^2^1^290^^
+1^1312^8913^0^2^8^3^25^1^290^^
+1^1312^8987^0^2^8^3^25^1^290^^
+1^1312^8988^1^3^3^3^27^1^290^^
+1^1312^8989^2^4^11^3^3^1^290^^
+1^1312^9045^0^1^9^4^0^1^5^^
+1^1312^9046^0^1^8^3^25^1^294^^
+1^1312^9086^0^1^11^3^3^1^295^^
+1^1312^9130^0^1^3^3^27^1^295^^
+1^1312^9179^^1^14^3^23^1^298^^
+1^1312^9181^^1^3^3^27^1^300^^
+1^1312^9182^^1^8^3^25^1^301^^
+1^1312^9183^^1^8^3^25^1^302^^
+1^1312^9184^^1^8^3^25^1^303^^
+1^1312^9185^^1^8^3^25^1^304^^
+1^1312^9186^^1^8^3^25^1^305^^
+1^1312^9187^^1^8^3^25^1^306^^
+1^1312^9229^0^1^5^3^2^1^466^^
+1^1312^9353^^1^3^3^27^1^296^^
+1^1312^9354^^1^8^3^25^1^296^^
+1^1312^9355^^1^8^3^25^1^307^^
+1^1312^9356^^1^3^3^27^1^307^^
+1^1312^9500^^1^3^3^27^1^307^^
+1^3758^9524^^1^17^1025^0^1^309^^
+1^1312^9530^^1^3^3^27^1^310^^
+1^1312^9776^0^0^14^3^23^1^312^^
+1^1312^9786^0^1^14^3^23^1^665^^
+1^1312^9804^^1^16^3^5^1^311^^
+1^1312^9814^^1^8^3^25^1^313^^
+1^1312^9866^^1^14^3^23^1^314^^
+1^1312^9933^^1^12^3^4^1^5^^

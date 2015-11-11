@@ -1,0 +1,16 @@
+<!-- Country is a space delimited list of country codes (NOT locales) to include or exclude for a given loading screen or loading screen text. -->
+<!-- Leaving Country out, or blank, will show the loading screen (or text) to everyone. -->
+<!-- A loading screen (or text) can be excluded for certain countries by specifying the country code with a minus in front, such as: Country="-FR" -->
+<!-- If you only want to show a loading screen (or text) to a specific country or two, you use -all and then + the countries to include. -->
+<!-- For Example: Country="-all +US +GB" -->
+<!-- The example above would only display that loading screen (or text) to people in the USA and Great Britain. -->
+<!-- You can also qualify with a StartDate and EndDate in the form "<year>-<month>-<day> <hour>:<minute>:<second>"-->
+<!-- so EndDate="2010-04-20 23:59:59" would stop showing a loading screen at that time or later-->
+
+<LoadingScreens>
+    <LoadingScreen Id="1" Filename="LoadingScreenIntro.swf" ShowToMembers="1" ShowToNonMembers="1" Weight="15"/>
+</LoadingScreens>
+
+<LoadingScreenText>
+<!-- Tips -->
+</LoadingScreenText>

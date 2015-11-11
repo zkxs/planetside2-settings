@@ -1,0 +1,4 @@
+<ProfileList>
+    <Profile name="Default" file="InputProfile_Default.xml" default="true" />
+    <Profile name="User" file="InputProfile_User.xml" active="true" />
+</ProfileList>

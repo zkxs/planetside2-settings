@@ -1,0 +1,45 @@
+# Filetypes
+*.bak
+*.bin
+*.cab
+*.Cache
+*.crt
+*.crt
+*.css
+*.cur
+*.dat
+*.dds
+*.dg0
+*.dir
+*.dll
+*.exe
+*.gif
+*.gnf
+*.html
+*.ico
+*.jpg
+*.js
+*.localstorage
+*.log
+*.pack
+*.pak
+*.pem
+*.png
+*.sample
+*.soe
+*.tga
+*.thm
+*.ttf
+*.vdf
+
+# Silly filetypes
+*Log.txt
+
+# Specific files
+/.Download*.txt
+COPYRIGHT.TXT
+Cookies
+
+# Specific folders
+/Web
+**/Cache/**
