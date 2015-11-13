@@ -49,7 +49,6 @@
         </Action>
         <Action name="VoiceChatSquad">
             <Trigger>Z</Trigger>
-            <Trigger>ScrollLock</Trigger>
         </Action>
         <Action name="VoiceChatSquadLeader">
             <Trigger>KP_7</Trigger>
