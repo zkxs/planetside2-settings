@@ -49,6 +49,7 @@
         </Action>
         <Action name="VoiceChatSquad">
             <Trigger>Z</Trigger>
+            <Trigger>ScrollLock</Trigger>
         </Action>
         <Action name="VoiceChatSquadLeader">
             <Trigger>KP_7</Trigger>
@@ -472,6 +473,7 @@
         </Action>
         <Action name="Slot3">
             <Trigger>3</Trigger>
+            <Trigger>Mouse_4</Trigger>
         </Action>
         <Action name="Slot4">
             <Trigger>4</Trigger>
@@ -511,9 +513,7 @@
             <Trigger>B</Trigger>
         </Action>
         <Action name="SwitchFireGroupAndToggleWhenHeld" />
-        <Action name="PrimarySecondaryToggle">
-            <Trigger>Mouse_4</Trigger>
-        </Action>
+        <Action name="PrimarySecondaryToggle" />
         <Action name="TertiaryOrTool" />
         <Action name="UtilityOrSpecial" />
         <Action name="NextWeapon" />
