@@ -49,13 +49,13 @@
         </Action>
         <Action name="VoiceChatSquad">
             <Trigger>Z</Trigger>
-            <Trigger>ScrollLock</Trigger>
         </Action>
         <Action name="VoiceChatSquadLeader">
             <Trigger>KP_7</Trigger>
         </Action>
         <Action name="VoiceChatPlatoon">
             <Trigger>KP_1</Trigger>
+            <Trigger>F13</Trigger>
         </Action>
         <Action name="VoiceChatOutfit" version="1">
             <Trigger>KP_9</Trigger>
@@ -180,7 +180,6 @@
             <Trigger>Equals</Trigger>
         </Action>
         <Action name="ChangeCamera">
-            <Trigger>T</Trigger>
             <Trigger>E</Trigger>
         </Action>
         <Action name="Fire">
@@ -326,8 +325,6 @@
             <Trigger>Gamepad_1_Button_15</Trigger>
         </Action>
         <Action name="ChangeCamera">
-            <Trigger>T</Trigger>
-            <Trigger>Gamepad_1_Button_3</Trigger>
             <Trigger>E</Trigger>
         </Action>
         <Action name="Fire">
@@ -374,7 +371,7 @@
             <Trigger>Gamepad_1_Button_2</Trigger>
         </Action>
         <Action name="Horn">
-            <Trigger>J</Trigger>
+            <Trigger>H</Trigger>
         </Action>
         <Action name="ChangeSeat1">
             <Trigger>F1</Trigger>
@@ -496,6 +493,9 @@
         <Action name="Slot10">
             <Trigger>0</Trigger>
         </Action>
+        <Action name="WieldMelee">
+            <Trigger>Minus</Trigger>
+        </Action>
         <Action name="Fire">
             <Trigger>Mouse_0</Trigger>
         </Action>
@@ -564,6 +564,27 @@
         <Action name="StrafeRight">
             <Trigger>Right</Trigger>
             <Trigger>D</Trigger>
+        </Action>
+    </ActionSet>
+    <ActionSet name="Deploy" radialMenuNavigation="Right">
+        <Action name="RotateLeft">
+            <Trigger>Mouse_0</Trigger>
+        </Action>
+        <Action name="RotateRight">
+            <Trigger>Mouse_1</Trigger>
+        </Action>
+        <Action name="MoveIn" />
+        <Action name="MoveOut" />
+        <Action name="MoveInOut" />
+        <Action name="Slow">
+            <Trigger>Control_Left</Trigger>
+            <Trigger>Control_Right</Trigger>
+        </Action>
+    </ActionSet>
+    <ActionSet name="UI_Map" radialMenuNavigation="Right">
+        <Action name="MapToggleIndicatorInteraction">
+            <Trigger>Control_Left</Trigger>
+            <Trigger>Control_Right</Trigger>
         </Action>
     </ActionSet>
 </Profile>
