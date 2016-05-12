@@ -119,18 +119,18 @@
     <Action name="CancelZoneQueue" displayName="UI.CancelZoneQueue" events="Press">
       <Trigger>End</Trigger>
     </Action>
-	<Action name="ToggleRedeployTimer" displayName="UI.ToggleRedeployTimer" events="Press" ignoreModifiers="false">
+    <Action name="ToggleRedeployTimer" displayName="UI.ToggleRedeployTimer" events="Press" ignoreModifiers="false">
       <Trigger>U</Trigger>
     </Action>
-	<Action name="ToggleInstantActionTimer" displayName="UI.ToggleInstantActionTimer" events="Press" ignoreModifiers="false">
-	  <Trigger>I</Trigger>
-	</Action>
-	<Action name="IncrementMinimapZoom" displayName="UI.IncrementMinimapZoom" events="Press" ignoreModifiers="true">
-	  <Trigger>Bracket_Right</Trigger>
-	</Action>
-	<Action name="DecrementMinimapZoom" displayName="UI.DecrementMinimapZoom" events="Press" ignoreModifiers="true">
-	  <Trigger>Bracket_Left</Trigger>
-	</Action>
+    <Action name="ToggleInstantActionTimer" displayName="UI.ToggleInstantActionTimer" events="Press" ignoreModifiers="false">
+      <Trigger>I</Trigger>
+    </Action>
+    <Action name="IncrementMinimapZoom" displayName="UI.IncrementMinimapZoom" events="Press" ignoreModifiers="true">
+      <Trigger>Bracket_Right</Trigger>
+    </Action>
+    <Action name="DecrementMinimapZoom" displayName="UI.DecrementMinimapZoom" events="Press" ignoreModifiers="true">
+      <Trigger>Bracket_Left</Trigger>
+    </Action>
   </ActionSet>
   <ActionSet name="QuickChat">
     <Action name="QuickChat1" displayName="UI.QuickChat1" ignoreModifiers="true">
@@ -418,19 +418,19 @@
   <ActionSet name="Infantry" actionSetType="Infantry">
     <Action name="MoveForward" displayName="UI.MoveForward" ignoreModifiers="true">
       <Trigger>W</Trigger>
-	  <Trigger>Up</Trigger>
+      <Trigger>Up</Trigger>
     </Action>   
     <Action name="MoveBackward" displayName="UI.MoveBackward" ignoreModifiers="true">
       <Trigger>S</Trigger>
-	  <Trigger>Down</Trigger>
+      <Trigger>Down</Trigger>
     </Action>    
     <Action name="StrafeLeft" displayName="UI.StrafeLeft" ignoreModifiers="true">
       <Trigger>A</Trigger>
-	  <Trigger>Left</Trigger>
+      <Trigger>Left</Trigger>
     </Action>  
     <Action name="StrafeRight" displayName="UI.StrafeRight" ignoreModifiers="true">
       <Trigger>D</Trigger>
-	  <Trigger>Right</Trigger>
+      <Trigger>Right</Trigger>
     </Action>    
     <Action name="TurnLeft" displayName="UI.TurnLeft" ignoreModifiers="true" >
     </Action>   
@@ -498,6 +498,9 @@
     </Action>
     <Action name="Slot10" displayName="UI.GearSlot10" ignoreModifiers="true">
       <Trigger>0</Trigger>
+    </Action>
+    <Action name="WieldMelee" displayName="UI.WieldMelee" ignoreModifiers="true">
+      <Trigger>Minus</Trigger>
     </Action>
     <Action name="Fire" displayName="UI.Fire" ignoreModifiers="true">
       <Trigger>Mouse_0</Trigger>
@@ -585,6 +588,30 @@
     <Action name="StrafeRight" displayName="UI.StrafeRight" ignoreModifiers="true">
       <Trigger>Right</Trigger>
       <Trigger>D</Trigger>
+    </Action>
+  </ActionSet>
+  <ActionSet name="Deploy">
+    <Action name="RotateLeft" displayName="UI.Deploy.RotateLeft" ignoreModifiers="true">
+      <Trigger>Mouse_0</Trigger>
+    </Action>
+    <Action name="RotateRight" displayName="UI.Deploy.RotateRight" ignoreModifiers="true">
+      <Trigger>Mouse_1</Trigger>
+    </Action>
+    <Action name="MoveIn" displayName="UI.Deploy.MoveIn" ignoreModifiers="true">
+    </Action>
+    <Action name="MoveOut" displayName="UI.Deploy.MoveOut" ignoreModifiers="true">
+    </Action>
+    <Action name="MoveInOut" displayName="UI.Deploy.MoveInOut" ignoreModifiers="true">
+    </Action>
+    <Action name="Slow" displayName="UI.Deploy.Slow" ignoreModifiers="true">
+      <Trigger>Control_Left</Trigger>
+      <Trigger>Control_Right</Trigger>
+    </Action>
+  </ActionSet>
+  <ActionSet name="UI_Map">
+    <Action name="MapToggleIndicatorInteraction" displayName="UI.DisableMapIndicatorInteraction" ignoreModifiers="true">
+      <Trigger>Control_Left</Trigger>
+      <Trigger>Control_Right</Trigger>
     </Action>
   </ActionSet>
 </Profile>
