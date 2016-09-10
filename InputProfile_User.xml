@@ -76,9 +76,7 @@
             <Trigger>Q</Trigger>
             <Trigger>Gamepad_1_Button_0</Trigger>
         </Action>
-        <Action name="ToggleVideoCapture">
-            <Trigger>PageUp</Trigger>
-        </Action>
+        <Action name="ToggleVideoCapture" />
         <Action name="OpenSquadPage">
             <Trigger>P</Trigger>
         </Action>
@@ -526,9 +524,7 @@
         <Action name="FreeLook">
             <Trigger>Mouse_1</Trigger>
         </Action>
-        <Action name="MoveUp">
-            <Trigger>Q</Trigger>
-        </Action>
+        <Action name="MoveUp" />
         <Action name="MoveDown" />
         <Action name="ReduceSpeed">
             <Trigger>Shift</Trigger>
