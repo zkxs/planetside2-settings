@@ -1,45 +1,40 @@
-# Filetypes
-*.bak
-*.bin
-*.cab
-*.Cache
-*.crt
-*.crt
-*.css
-*.cur
-*.dat
-*.dds
-*.dg0
-*.dir
-*.dll
-*.exe
-*.gif
-*.gnf
-*.html
-*.ico
-*.jpg
-*.js
-*.localstorage
-*.log
-*.pack
-*.pak
-*.pem
-*.png
-*.sample
-*.soe
-*.tga
-*.thm
-*.ttf
-*.vdf
+# logs
+/.DownloadInfo.txt
+/.DownloadStat.txt
+LaunchPad.libs/Logs/**/*.log
 
-# Silly filetypes
-*Log.txt
+# cache
+LaunchPad.libs/LaunchPad.Cache
 
-# Specific files
-/.Download*.txt
-COPYRIGHT.TXT
-Cookies
+# binary
+/*.dll
+/*.exe
+/*.exe.bak
+/*.ico
+/Uninstaller.dg0
+/Uninstaller.soe
+BattlEye/*.dll
+BattlEye/*.exe
+LaunchPad.libs/*.bmp
+LaunchPad.libs/*.dat
+LaunchPad.libs/*.dll
+LaunchPad.libs/*.exe
+LaunchPad.libs/**/*.bin
+LaunchPad.libs/**/*.pak
+Locale/*.dat
+Locale/*.dir
+Resources/Assets/*.pack2
+Resources/Cursors/*.cur
+ValidationDLLs/*.dll
 
-# Specific folders
-/Web
-**/Cache/**
+# web ui stuff
+LaunchPad.libs/Web/**/*.css
+LaunchPad.libs/Web/**/*.gif
+LaunchPad.libs/Web/**/*.html
+LaunchPad.libs/Web/**/*.jpg
+LaunchPad.libs/Web/**/*.js
+LaunchPad.libs/Web/**/*.png
+UI/*.bin
+UI/Resource/Fonts/*.ttf
+UI/Resource/Fonts/COPYRIGHT.TXT
+UI/UiModules/**/*.xml
