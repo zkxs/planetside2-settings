@@ -13,7 +13,7 @@
     <Action name="StartChatText" displayName="UI.OpenChat" events="Press">
       <Trigger>Return</Trigger>
     </Action>
-    <Action name="StartCommandText" displayName="UI.OpenCommand" unbindable="true" events="Press">
+    <Action name="StartCommandText" displayName="UI.OpenCommand" events="Press">
       <Trigger>Slash</Trigger>
     </Action>
     <Action name="Reply" displayName="UI.Reply" events="Press" ignoreModifiers="true">
@@ -80,6 +80,9 @@
     <Action name="VoiceChatCustom" displayName="UI.VoiceChatCustom" ignoreModifiers="true" version="1">
       <Trigger>KP_6</Trigger>
     </Action>
+    <Action name="VoiceChatFireteam" displayName="UI.VoiceChatFireteam" ignoreModifiers="true">
+      <Trigger>KP_2</Trigger>
+    </Action>
     <Action name="VoiceMacro" displayName="UI.VoiceMacro" ignoreModifiers="true">
       <Trigger>V</Trigger>
     </Action>
@@ -123,13 +126,20 @@
       <Trigger>U</Trigger>
     </Action>
     <Action name="ToggleInstantActionTimer" displayName="UI.ToggleInstantActionTimer" events="Press" ignoreModifiers="false">
-      <Trigger>I</Trigger>
+      <Trigger>J</Trigger>
+    </Action>
+    <Action name="JoinOutfitWarMatch" displayName="UI.JoinOutfitWarMatch" events="Press" ignoreModifiers="false">
+      <Trigger>Home</Trigger>
     </Action>
     <Action name="IncrementMinimapZoom" displayName="UI.IncrementMinimapZoom" events="Press" ignoreModifiers="true">
-      <Trigger>Bracket_Right</Trigger>
+      <Trigger>MouseWheel+</Trigger>
     </Action>
     <Action name="DecrementMinimapZoom" displayName="UI.DecrementMinimapZoom" events="Press" ignoreModifiers="true">
-      <Trigger>Bracket_Left</Trigger>
+      <Trigger>MouseWheel-</Trigger>
+    </Action>
+    <Action name="SquadPromoteMe" displayName="UI.SquadPromoteMe" events="Press"></Action>
+    <Action name="ToggleTelemetry" displayName="UI.ToggleTelemetry" events="Press" unbindable="true">
+        <Trigger>Control+Shift+T</Trigger>
     </Action>
   </ActionSet>
   <ActionSet name="QuickChat">
@@ -162,6 +172,9 @@
     </Action>
     <Action name="QuickChat10" displayName="UI.QuickChat10" ignoreModifiers="true">
       <Trigger>0</Trigger>
+    </Action>
+    <Action name="ToggleTelemetry" displayName="UI.ToggleTelemetry" events="Press" unbindable="true">
+       <Trigger>Control+Shift+T</Trigger>
     </Action>
   </ActionSet>
 
@@ -220,10 +233,8 @@
     <Action name="PrimarySecondaryToggle" displayName="UI.PrimarySecondaryToggle" ignoreModifiers="true" >
     </Action>
     <Action name="NextWeapon" displayName="UI.NextWeapon" ignoreModifiers="true">
-      <Trigger>MouseWheel+</Trigger>
     </Action>   
     <Action name="PreviousWeapon" displayName="UI.PreviousWeapon" ignoreModifiers="true">
-      <Trigger>MouseWheel-</Trigger>
     </Action>    
     <Action name="Slot1" displayName="UI.WeaponSlot1" ignoreModifiers="true">
       <Trigger>1</Trigger>
@@ -236,11 +247,10 @@
       <Trigger>Shift_Right</Trigger>
     </Action>    
     <Action name="VehicleAbility" displayName="UI.VehicleAbility" ignoreModifiers="true">
-      <Trigger>X</Trigger>
       <Trigger>F</Trigger>
     </Action>
     <Action name="Horn" displayName="UI.VehicleHorn">
-      <Trigger>J</Trigger>
+      <Trigger>X</Trigger>
       <Trigger>Mouse_3</Trigger>
     </Action>
     <Action name="ChangeSeat1" displayName="UI.ChangeToSeat1">
@@ -348,10 +358,8 @@
     <Action name="PrimarySecondaryToggle" displayName="UI.PrimarySecondaryToggle" ignoreModifiers="true" >
     </Action>
     <Action name="NextWeapon" displayName="UI.NextWeapon" ignoreModifiers="true">
-      <Trigger>MouseWheel+</Trigger>
     </Action>   
     <Action name="PreviousWeapon" displayName="UI.PreviousWeapon" ignoreModifiers="true">
-      <Trigger>MouseWheel-</Trigger>
     </Action>
     <Action name="Slot1" displayName="UI.WeaponSlot1" ignoreModifiers="true" />
     <Action name="Slot2" displayName="UI.WeaponSlot2" ignoreModifiers="true" />
@@ -374,7 +382,7 @@
     </Action>
 
     <Action name="Horn" displayName="UI.VehicleHorn">
-      <Trigger>J</Trigger>
+      <Trigger>X</Trigger>
       <Trigger>Mouse_3</Trigger>
     </Action>
 
@@ -531,10 +539,8 @@
     <Action name="UtilityOrSpecial" displayName="UI.UtilityOrSpecial" ignoreModifiers="true" >
     </Action>
     <Action name="NextWeapon" displayName="UI.NextWeapon" ignoreModifiers="true">
-      <Trigger>MouseWheel+</Trigger>
     </Action>   
     <Action name="PreviousWeapon" displayName="UI.PreviousWeapon" ignoreModifiers="true">
-      <Trigger>MouseWheel-</Trigger>
     </Action>
     <Action name="ToggleAutoRun" displayName="UI.AutoRun" ignoreModifiers="true">
       <Trigger>Equals</Trigger>
