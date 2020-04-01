@@ -1,11 +1,11 @@
 # logs
 /.DownloadInfo.txt
-/.DownloadStat.txt
+/.DownloadStats.txt
 /CommandHistory.txt
-LaunchPad.libs/Logs/**/*.log
+/LaunchPad.libs/Logs/**/*.log
 
 # cache
-LaunchPad.libs/LaunchPad.Cache
+/LaunchPad.libs/LaunchPad.Cache
 
 # binary
 /*.dll
@@ -14,31 +14,30 @@ LaunchPad.libs/LaunchPad.Cache
 /*.ico
 /Uninstaller.dg0
 /Uninstaller.soe
-BattlEye/*.dll
-BattlEye/*.exe
-LaunchPad.libs/*.bmp
-LaunchPad.libs/*.dat
-LaunchPad.libs/*.dll
-LaunchPad.libs/*.exe
-LaunchPad.libs/**/*.bin
-LaunchPad.libs/**/*.pak
-Locale/*.dat
-Locale/*.dir
-Resources/Assets/*.pack2
-Resources/Cursors/*.cur
-ValidationDLLs/*.dll
+/BattlEye/*.dll
+/BattlEye/*.exe
+/LaunchPad.libs/*.bmp
+/LaunchPad.libs/*.dat
+/LaunchPad.libs/*.dll
+/LaunchPad.libs/*.exe
+/LaunchPad.libs/**/*.bin
+/LaunchPad.libs/**/*.pak
+/Locale/*.dat
+/Locale/*.dir
+/Resources/Assets/*.pack2
+/Resources/Cursors/*.cur
+/ValidationDLLs/*.dll
 
 # web ui stuff
-LaunchPad.libs/Web/**/*.css
-LaunchPad.libs/Web/**/*.gif
-LaunchPad.libs/Web/**/*.html
-LaunchPad.libs/Web/**/*.jpg
-LaunchPad.libs/Web/**/*.js
-LaunchPad.libs/Web/**/*.png
-Resources/Marketing/ClientStoreBillboards.txt
-Resources/Marketing/ClientStorePortalCategories.txt
-Resources/Marketing/MarketingDataClientSchema.xml
-UI/*.bin
-UI/Resource/Fonts/*.ttf
-UI/Resource/Fonts/COPYRIGHT.TXT
-UI/UiModules/**/*.xml
+/LaunchPad.libs/Web/**/*.css
+/LaunchPad.libs/Web/**/*.gif
+/LaunchPad.libs/Web/**/*.html
+/LaunchPad.libs/Web/**/*.jpg
+/LaunchPad.libs/Web/**/*.js
+/LaunchPad.libs/Web/**/*.png
+/Resources/Marketing/ClientStore*.txt
+/Resources/Marketing/MarketingDataClientSchema.xml
+/UI/*.bin
+/UI/Resource/Fonts/*.ttf
+/UI/Resource/Fonts/COPYRIGHT.TXT
+/UI/UiModules/**/*.xml
