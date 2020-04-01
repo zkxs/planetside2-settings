@@ -35,7 +35,9 @@ LaunchPad.libs/Web/**/*.html
 LaunchPad.libs/Web/**/*.jpg
 LaunchPad.libs/Web/**/*.js
 LaunchPad.libs/Web/**/*.png
-Resources/Marketing/ClientStoreBillboardPanels.txt
+Resources/Marketing/ClientStoreBillboards.txt
+Resources/Marketing/ClientStorePortalCategories.txt
+Resources/Marketing/MarketingDataClientSchema.xml
 UI/*.bin
 UI/Resource/Fonts/*.ttf
 UI/Resource/Fonts/COPYRIGHT.TXT

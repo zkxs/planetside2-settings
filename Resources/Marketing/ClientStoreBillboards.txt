@@ -1,2 +1,0 @@
-#*billboard_id^location_id^
-1^1^
