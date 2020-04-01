@@ -1,6 +1,7 @@
 # logs
 /.DownloadInfo.txt
 /.DownloadStat.txt
+/CommandHistory.txt
 LaunchPad.libs/Logs/**/*.log
 
 # cache
@@ -34,6 +35,7 @@ LaunchPad.libs/Web/**/*.html
 LaunchPad.libs/Web/**/*.jpg
 LaunchPad.libs/Web/**/*.js
 LaunchPad.libs/Web/**/*.png
+Resources/Marketing/ClientStoreBillboardPanels.txt
 UI/*.bin
 UI/Resource/Fonts/*.ttf
 UI/Resource/Fonts/COPYRIGHT.TXT
