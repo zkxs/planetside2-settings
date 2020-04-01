@@ -3,6 +3,9 @@
         <Action name="StartChatText">
             <Trigger>Return</Trigger>
         </Action>
+        <Action name="StartCommandText">
+            <Trigger>Slash</Trigger>
+        </Action>
         <Action name="Reply">
             <Trigger>Backspace</Trigger>
         </Action>
@@ -55,13 +58,16 @@
         </Action>
         <Action name="VoiceChatPlatoon">
             <Trigger>KP_1</Trigger>
-            <Trigger>F13</Trigger>
+            <Trigger>F14</Trigger>
         </Action>
         <Action name="VoiceChatOutfit" version="1">
             <Trigger>KP_9</Trigger>
         </Action>
         <Action name="VoiceChatCustom" version="1">
             <Trigger>KP_6</Trigger>
+        </Action>
+        <Action name="VoiceChatFireteam">
+            <Trigger>KP_2</Trigger>
         </Action>
         <Action name="VoiceMacro">
             <Trigger>V</Trigger>
@@ -105,12 +111,16 @@
             <Trigger>U</Trigger>
         </Action>
         <Action name="ToggleInstantActionTimer" />
+        <Action name="JoinOutfitWarMatch">
+            <Trigger>Home</Trigger>
+        </Action>
         <Action name="IncrementMinimapZoom">
             <Trigger>Bracket_Right</Trigger>
         </Action>
         <Action name="DecrementMinimapZoom">
             <Trigger>Bracket_Left</Trigger>
         </Action>
+        <Action name="SquadPromoteMe" />
     </ActionSet>
     <ActionSet name="QuickChat" radialMenuNavigation="Right">
         <Action name="QuickChat1">

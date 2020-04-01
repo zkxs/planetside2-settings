@@ -132,10 +132,10 @@
       <Trigger>Home</Trigger>
     </Action>
     <Action name="IncrementMinimapZoom" displayName="UI.IncrementMinimapZoom" events="Press" ignoreModifiers="true">
-      <Trigger>Bracket_Right</Trigger>
+      <Trigger>MouseWheel+</Trigger>
     </Action>
     <Action name="DecrementMinimapZoom" displayName="UI.DecrementMinimapZoom" events="Press" ignoreModifiers="true">
-      <Trigger>Bracket_Left</Trigger>
+      <Trigger>MouseWheel-</Trigger>
     </Action>
     <Action name="SquadPromoteMe" displayName="UI.SquadPromoteMe" events="Press"></Action>
     <Action name="ToggleTelemetry" displayName="UI.ToggleTelemetry" events="Press" unbindable="true">
@@ -250,6 +250,7 @@
       <Trigger>F</Trigger>
     </Action>
     <Action name="Horn" displayName="UI.VehicleHorn">
+      <Trigger>X</Trigger>
       <Trigger>Mouse_3</Trigger>
     </Action>
     <Action name="ChangeSeat1" displayName="UI.ChangeToSeat1">
@@ -381,6 +382,7 @@
     </Action>
 
     <Action name="Horn" displayName="UI.VehicleHorn">
+      <Trigger>X</Trigger>
       <Trigger>Mouse_3</Trigger>
     </Action>
 
