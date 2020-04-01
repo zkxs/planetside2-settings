@@ -52,13 +52,13 @@
         </Action>
         <Action name="VoiceChatSquad">
             <Trigger>Z</Trigger>
+            <Trigger>F14</Trigger>
         </Action>
         <Action name="VoiceChatSquadLeader">
             <Trigger>KP_7</Trigger>
         </Action>
         <Action name="VoiceChatPlatoon">
             <Trigger>KP_1</Trigger>
-            <Trigger>F14</Trigger>
         </Action>
         <Action name="VoiceChatOutfit" version="1">
             <Trigger>KP_9</Trigger>
@@ -482,6 +482,7 @@
         </Action>
         <Action name="Slot4">
             <Trigger>4</Trigger>
+            <Trigger>Mouse_3</Trigger>
         </Action>
         <Action name="Slot5">
             <Trigger>5</Trigger>
