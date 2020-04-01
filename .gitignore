@@ -7,13 +7,15 @@
 # cache
 /LaunchPad.libs/LaunchPad.Cache
 
+# only present when game is running
+/ClientStatus.xml
+/CurrentClientState.txt
+
 # binary
 /*.dll
 /*.exe
 /*.exe.bak
 /*.ico
-/Uninstaller.dg0
-/Uninstaller.soe
 /BattlEye/*.dll
 /BattlEye/*.exe
 /LaunchPad.libs/*.bmp
@@ -26,6 +28,8 @@
 /Locale/*.dir
 /Resources/Assets/*.pack2
 /Resources/Cursors/*.cur
+/Uninstaller.dg0
+/Uninstaller.soe
 /ValidationDLLs/*.dll
 
 # web ui stuff
