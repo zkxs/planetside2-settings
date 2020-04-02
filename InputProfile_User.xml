@@ -52,7 +52,6 @@
         </Action>
         <Action name="VoiceChatSquad">
             <Trigger>Z</Trigger>
-            <Trigger>F14</Trigger>
         </Action>
         <Action name="VoiceChatSquadLeader">
             <Trigger>KP_7</Trigger>
