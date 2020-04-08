@@ -58,6 +58,7 @@
         </Action>
         <Action name="VoiceChatPlatoon">
             <Trigger>KP_1</Trigger>
+            <Trigger>Backslash</Trigger>
         </Action>
         <Action name="VoiceChatOutfit" version="1">
             <Trigger>KP_9</Trigger>
