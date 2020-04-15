@@ -52,13 +52,13 @@
         </Action>
         <Action name="VoiceChatSquad">
             <Trigger>Z</Trigger>
+            <Trigger>Backslash</Trigger>
         </Action>
         <Action name="VoiceChatSquadLeader">
             <Trigger>KP_7</Trigger>
         </Action>
         <Action name="VoiceChatPlatoon">
             <Trigger>KP_1</Trigger>
-            <Trigger>Backslash</Trigger>
         </Action>
         <Action name="VoiceChatOutfit" version="1">
             <Trigger>KP_9</Trigger>
